@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio pessoal! Este projeto apresenta quem sou, meus projetos, habilidades técnicas e formas de contato profissional.
 
 🔗 **Acesse online o portfólio completo:**  
-[https://meu-portifolio-cfx3.vercel.app/](https://meu-portifolio-cfx3.vercel.app/)
+[https://portifolio-nine-green-99.vercel.app/]https://portifolio-nine-green-99.vercel.app)
 
 ---
 
@@ -70,3 +70,4 @@ Projeto pessoal que simula um sistema de entregas com funcionalidades completas 
 ---
 
 © 2025 Bernardo Demaria Santos. Todos os direitos reservados.
+
